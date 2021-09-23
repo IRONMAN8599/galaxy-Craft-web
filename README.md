@@ -1,2 +1,0 @@
-# Galaxy-Web
-Galaxy OmP
